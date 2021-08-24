@@ -10,7 +10,7 @@ What are you waiting for? Your new life awaits.
 
 ## QMK?!
 
-Kits bought from the [Ploopy store](https://www.ploopy.co/shop/mini-trackball-category/6) come with QMK preloaded. Check out the Wiki for instructions on how to load new firmware onto your device. (It's super easy!)
+Kits bought from the [Ploopy store](https://ploopy.co/product-category/trackball/mini/) come with QMK preloaded. Check out the Wiki for instructions on how to load new firmware onto your device. (It's super easy!)
 
 The firmware hex file that ships with all Nanos is included in this repository as well, as `ploopyco_trackball_mini_rev1_002_default.hex`.
 
