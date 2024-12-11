@@ -1,6 +1,6 @@
 # The Ploopy Mini Trackball
 
-![The Ploopy Nano Trackball](mini.jpg)
+![The Ploopy Mini Trackball](mini.jpg)
 
 By some stroke of luck, you've made your way here. The Ploopy Mini Trackball. Your life will never be the same.
 
@@ -12,7 +12,7 @@ What are you waiting for? Your new life awaits.
 
 Kits bought from the [Ploopy store](https://ploopy.co/product-category/trackball/mini/) come with QMK preloaded. Check out the Wiki for instructions on how to load new firmware onto your device. (It's super easy!)
 
-The firmware hex file that ships with all Nanos is included in this repository as well, as `ploopyco_trackball_mini_rev1_002_default.hex`.
+The firmware hex file that ships with all Minis is included in this repository as well, as `ploopyco_trackball_mini_rev1_002_default.hex`.
 
 ## Under what license is this released?
 
